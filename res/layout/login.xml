@@ -20,6 +20,7 @@
         android:layout_marginTop="30dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
+        android:inputType="textPassword"
         android:id="@+id/passwordField"
         android:hint="Password"/>
 
